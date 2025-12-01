@@ -8,7 +8,7 @@
 
 ###
 <p align="center"><strong>
-  Software Engineer • Full-stack (JS) • AI/ML Enthusiast</strong><br>Currently working as FE Team Lead @ <a href="https://thebigsolutions.com/">The Big Solutions</a> / <a href="https://mypay.com.np/">MyPay</a><br>Open to part-time and freelance engagements. Let’s work together to create something exceptional. 🙌
+  Software Engineer • Full-stack (JS/Node) • AI/ML Enthusiast</strong><br>Currently working as FE Team Lead @ <a href="https://thebigsolutions.com/">The Big Solutions</a> / <a href="https://mypay.com.np/">MyPay</a><br>Open to part-time and freelance engagements. Let’s work together to create something exceptional. 🙌
 <br><br>
   <b>·</b> <a href="">View My Resume</a>
  <b>·</b> 
