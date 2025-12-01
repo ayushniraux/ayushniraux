@@ -15,7 +15,7 @@
 
 
 <br>
-<a href="">@portfolio</a>  |  <a href="">@instagram</a>  |  <a href="">@medium</a>
+<a href="">@portfolio</a>  |  <a href="https://www.instagram.com/the.ayush.niraula/">@instagram</a>  |  <a href="https://medium.com/@ayushniraux">@medium</a>  |  <a href="https://x.com/ayushniraux">@X (Twitter)</a>
 <br>
 
 
